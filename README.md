@@ -11,7 +11,7 @@ Identify roles of R, C, L, transistors, filters, bias networks, and understand h
 ### Circuit Debugging  
 Detect wiring mistakes, wrong bias points, unstable configurations, loading issues, and incorrect component values.
 
-###Improvement Suggestions  
+### Improvement Suggestions  
 Recommend value changes, stability fixes, noise reduction, bandwidth improvements, and better design practices.
 
 The goal is to bring human-level insight to analog circuits — making them easier to learn, analyze, and refine.
